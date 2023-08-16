@@ -10,4 +10,4 @@
 
 
 **Languages and Tools:**
-![](https://react.dev/)
+![http://www.w3.org/2000/svg](https://react.dev/)
